@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aniket-kolekar-swiggy
-- 💻 My designation is Senior Software Engineer.
+- 💻 My designation is Software Development Engineer.
 - 👀 I’m interested in Innovation and Development.
 - 📫 How to reach me - https://aniketkolekar.vercel.app/contact
 
