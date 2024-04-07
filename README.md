@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniket-kolekar-swiggy
 - 💻 My designation is Software Development Engineer.
 - 👀 I’m interested in Innovation and Development.
-- 📫 How to reach me - https://aniketkolekar.vercel.app/contact
+- 🌐 My portfolio - https://aniketkolekar.vercel.app/
 
 <!---
 aniket-kolekar-swiggy/aniket-kolekar-swiggy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
